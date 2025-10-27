@@ -1,0 +1,23 @@
+# Dados sensíveis
+*.csv
+*.xlsx
+*.xls
+data/*.csv
+data/*.xlsx
+
+# Power BI
+*.pbix.backup
+
+# Tableau
+*.twbx
+
+# Cache
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
