@@ -27,48 +27,46 @@ O dataset foi particionado por linguagem de programação para permitir análise
 
 ### Grupo 1: Python
 
-- Número de registros: 13
+- Número de registros: 15
 - Repositórios: awesome-python, tensorflow, pytorch, django, flask, requests, scikit-learn, pandas, matplotlib, numpy, scrapy, celery, sqlalchemy, fastapi, pytest
 - Características principais:
-  - Média de stars: 36,800
-  - Forte presença em ciência de dados e web
+  - Média de stars: 49.200
+  - Forte presença em ciência de dados, web e frameworks de machine learning
 
 ### Grupo 2: JavaScript
 
-- Número de registros: 31
-- Repositórios: react, vue, next.js, gatsby, express, node, webpack, babel, jest, axios, lodash, moment, redux, webpack-dev-server, svelte, three.js, phaser, chart.js, d3, leaflet, marked, prettier, eslint, grunt
+- Número de registros: 24
+- Principais repositórios: react, vue, next.js, gatsby, express, node, webpack, babel, axios, jest, lodash, moment, redux, svelte, three.js, d3, chart.js, prettier, eslint, grunt (demais no dashboard)
 - Características principais:
-  - Média de stars: 48,500
-  - Dominância em frameworks front-end
-  - Alta popularidade
+  - Média de stars: 67.063
+  - Dominância de frameworks front-end e ferramentas do ecossistema web
 
 ### Grupo 3: Java
 
-- Número de registros: 10
-- Repositórios: java-design-patterns, spring-boot, hibernate, spring-framework, okhttp, guava, retrofit, butterknife, material-components, lombok, mockito, selenium
+- Número de registros: 12
+- Repositórios: java-design-patterns, spring-boot, spring-framework, hibernate, okhttp, guava, retrofit, butterknife, material-components, lombok, mockito, selenium
 - Características principais:
-  - Média de stars: 22,000
-  - Uso em aplicações enterprise
+  - Média de stars: 34.617
+  - Forte associação a soluções enterprise e bibliotecas para APIs
 
 ### Grupo 4: Go
 
-- Número de registros: 10
+- Número de registros: 12
 - Repositórios: kubernetes, docker, gin, prometheus, grafana, traefik, etcd, consul, viper, cobra, mockery, mux
 - Características principais:
-  - Média de stars: 37,700
-  - Popularidade em ferramentas DevOps e infraestrutura
+  - Média de stars: 42.983
+  - Popularidade em ferramentas DevOps, observabilidade e infraestrutura
 
 ### Grupo 5: Outras Linguagens
 
-- Número de registros: 36
-- Linguagens: Assembly, TypeScript, Ruby, Scala, Rust, PHP
+- Número de registros: 37 (Assembly, PHP, Rust, Ruby, Scala, TypeScript)
+- Destaques:
+  - PHP: 12 repositórios (ex.: laravel, symfony, guzzle, phpunit)
+  - Rust: 11 repositórios (ex.: tokio, actix-web, clap, wasm-pack)
+  - Ruby: 11 repositórios (ex.: rails, devise, rspec, sidekiq)
+  - Assembly, Scala e TypeScript contam com um repositório cada
 - Características principais:
-  - Diversidade de casos de uso
-  - Inclui linguagens especializadas
-  - PHP: 10 repositórios
-  - Rust: 10 repositórios
-  - Ruby: 10 repositórios
-  - Outras: 6 repositórios
+  - Ecossistema heterogêneo que cobre desde web até ferramentas de baixo nível
 
 ### Sprint 1 - Caracterização
 
@@ -92,19 +90,19 @@ O dataset foi particionado por linguagem de programação para permitir análise
 
 ### Estatísticas Gerais
 
-- **Média de Stars**: 35,200
-- **Mediana de Stars**: 21,000
-- **Desvio Padrão**: ~27,500
-- **Repositório com mais stars**: vue (190,000)
-- **Repositório com menos stars**: ferris-says (1,800)
+- **Média de Stars**: 41.404
+- **Mediana de Stars**: 32.000
+- **Desvio Padrão**: 37.911
+- **Repositório com mais stars**: vue (190.000)
+- **Repositório com menos stars**: ferris-says (1.800)
 
-- **Média de Forks**: 8,500
-- **Mediana de Forks**: 5,500
-- **Repositório com mais forks**: tensorflow (86,000)
+- **Média de Forks**: 9.789
+- **Mediana de Forks**: 5.400
+- **Repositório com mais forks**: tensorflow (86.000)
 
 ### Análise por Grupo
 
-- **Linguagem Mais Popular (total de stars)**: JavaScript (mais repositórios)
-- **Linguagem Mais Antiga**: linux (2005)
-- **Linguagem Mais Nova**: fastapi (2018)
-- **Maior Diversidade**: JavaScript (31 repositórios)
+- **Maior volume de stars (soma)**: JavaScript (1.609.500 stars em 24 repositórios)
+- **Repositório mais antigo**: hibernate (Java, 2001)
+- **Repositório mais recente**: fastapi (Python, 2018)
+- **Maior diversidade de projetos**: JavaScript (24 repositórios em múltiplas categorias)
