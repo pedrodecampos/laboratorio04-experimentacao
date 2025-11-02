@@ -10,6 +10,7 @@ Criar um dashboard utilizando Google Data Studio para apresentar resultados de e
 - **Registros**: 100 repositórios do GitHub
 - **Atributos**: 9 colunas (ID, nome, linguagem, stars, forks, data de criação, tamanho, wiki, issues)
 - **Tipo**: Análise de projetos open-source por linguagem de programação
+- **Origem**: Os dados foram obtidos via GitHub REST API v3 em outubro de 2025.
 
 ## Estrutura do Projeto
 
