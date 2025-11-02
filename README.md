@@ -11,6 +11,7 @@ Criar um dashboard utilizando Google Data Studio para apresentar resultados de e
 - **Atributos**: 9 colunas (ID, nome, linguagem, stars, forks, data de criação, tamanho, wiki, issues)
 - **Tipo**: Análise de projetos open-source por linguagem de programação
 - **Origem**: Os dados foram obtidos via GitHub REST API v3 em outubro de 2025.
+- **Link Google Looker Studio**: https://lookerstudio.google.com/s/o0OkPZ8rG-A
 
 ## Estrutura do Projeto
 
